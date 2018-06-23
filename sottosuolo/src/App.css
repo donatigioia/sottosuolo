@@ -1,0 +1,21 @@
+
+.App-logo {
+  width: 80px;
+  padding: 5px 13px;
+}
+
+.App-bar-contents-container {
+ display:flex;
+ align-items: center;
+ justify-content: space-between;
+ min-height: 95px;
+}
+
+@keyframes fadeMe {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
